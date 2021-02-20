@@ -1,0 +1,41 @@
+.message {
+  overflow: hidden;
+}
+
+.error-message {
+  font-style: italic;
+  font-size: 0.8em;
+  color: rgb(155, 4, 4);
+  animation: showUp 1s linear;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  25% {
+    transform: rotate(90deg);
+  }
+  50% {
+    transform: rotate(180deg);
+  }
+  75% {
+    transform: rotate(270deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.fa-refresh {
+  animation: rotate 1s linear infinite;
+}
+
+@keyframes showUp {
+  0%   { 
+  transform: translateY(110%); 		
+  }
+  100% { 
+  transform: translateY(0%); 
+  }
+}

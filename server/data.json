@@ -1,0 +1,81 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "name": "Angular Connect",
+      "date": "9/26/2036",
+      "time": "12am",
+      "location": {
+        "address": "10 London Rd",
+        "city": "London",
+        "country": "ENGLAND"
+      }
+    },
+    {
+      "id": 2,
+      "name": "ng-nl rövid",
+      "date": "4/15/2037",
+      "time": "10am",
+      "location": {
+        "address": "127 DT ",
+        "city": "Amsterdam",
+        "country": "NL"
+      }
+    },
+    {
+      "id": 3,
+      "name": "ng-conf 2037 is",
+      "date": "4/15/2037",
+      "time": "09am",
+      "location": {
+        "address": "The Palatial America Hotel",
+        "city": "Salt Lake City",
+        "country": "USAUSA"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Első teszt",
+      "date": "4/15/2037",
+      "time": "11am",
+      "location": {
+        "address": "Varjú köz 12",
+        "city": "Budapest",
+        "country": "HUNGARY"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Második teszt",
+      "date": "9/26/2032",
+      "time": "10am",
+      "location": {
+        "address": "Varjú köz 5",
+        "city": "Budapest",
+        "country": "HUNGARY"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Harmadik teszt",
+      "date": "9/26/2036",
+      "time": "10am",
+      "location": {
+        "address": "Kossuth Lajos",
+        "city": "Nemesvámos",
+        "country": "HUNGARY"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Ötödik teszt",
+      "date": "6/11/2412",
+      "time": "01am",
+      "location": {
+        "address": "Varjú köz 8",
+        "city": "Budapest",
+        "country": "HUNGARY"
+      }
+    }
+  ]
+}
