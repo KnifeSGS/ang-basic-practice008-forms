@@ -28,8 +28,8 @@ szabályok szerint:
 > location.country: legalább 5, maximum 25 karakter, csupa nagybetű
 Az összes szabályt pattern -ként add meg a HTML állományban.
 
-*2.* Legyenek hibaüzenetek a hibás validáció esetén az adott mezők alatt. Akkor 
-legyenek láthatók, ha nem valid a mező értéke. A hibaüzenet szövege legyen 
+*2.* Legyenek hibaüzenetek a hibás validáció esetén az adott mezők alatt. 
+> Akkor legyenek láthatók, ha nem valid a mező értéke. A hibaüzenet szövege legyen 
 összefüggésben a hibával, pontosan mondja meg, hogy hogyan kell kinéznie 
 az adatnak. Lehet magyar vagy angol nyelvű is.
 
@@ -58,10 +58,13 @@ eseményének az id -jével.
 
 ## Extra feladatok
 *1.* A hibaüzenetek az űrlapon animálva jelenjenek meg.
+
 *2.* Az eseményeket mentsd ki egy .json állományba a tanult módon és onnan kérd 
 le őket, ott módosítsd és töröld a HttpClient segítségével (json-server).
+
 *3.* Ne lehessen többször a mentés gombra kattintani, a mentés megkezdésekor 
 kerüljön a gomb letiltásra.
+
 *4.* Tanulmányozd át az ngx-toastr nevű harmadik féltől származó angular 
 kiegészítőt. Oldd meg a használatával, hogy sikeres mentés, módosítás és 
 törlés esetén jelenjen meg 3s időtartamra toast üzenet, ami informálja 
