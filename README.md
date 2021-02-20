@@ -62,14 +62,9 @@ eseményének az id -jével.
 le őket, ott módosítsd és töröld a HttpClient segítségével (json-server).
 *3.* Ne lehessen többször a mentés gombra kattintani, a mentés megkezdésekor 
 kerüljön a gomb letiltásra.
-4. Tanulmányozd át az ngx-toaster nevű harmadik féltől származó angular 
+*4.* Tanulmányozd át az ngx-toastr nevű harmadik féltől származó angular 
 kiegészítőt. Oldd meg a használatával, hogy sikeres mentés, módosítás és 
 törlés esetén jelenjen meg 3s időtartamra toast üzenet, ami informálja 
 a felhasználót az elvégzett műveletről.
 
 ## Sok sikert.
-
-
-git remote add origin https://github.com/KnifeSGS/ang-basic-practice008-forms.git
-git branch -M main
-git push -u origin main
